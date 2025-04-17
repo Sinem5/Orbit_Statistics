@@ -1,0 +1,43 @@
+🌍 What is B★?
+B★ is a number used in space tracking that tells us how much the atmosphere is slowing down a satellite or piece of space debris as it orbits the Earth.
+
+Even though space seems empty, there's a very thin layer of atmosphere still present in low Earth orbit. This thin air creates drag (like wind resistance), which slows objects down and causes their orbits to get lower over time.
+
+B★ is a value used in computer models to describe how much drag is acting on an object.
+
+🚀 Why is B★ useful?
+When you're tracking satellites or space debris, you want to predict where those objects will be in the future — to avoid collisions, for example. But drag makes this tricky because it changes their orbits over time.
+
+If an object has a high B★, it's being slowed down more by the atmosphere, and its orbit is decaying (falling) faster.
+
+If B★ is low, it's being less affected, and will stay in orbit longer.
+
+📊 How can B★ help with debris detection?
+Let’s say you have a dataset with B★ values over time for many objects in orbit. Here's how that can be helpful:
+
+Spotting Orbital Decay
+
+If B★ goes up suddenly, it might mean the object is now tumbling, fragmenting, or dipping into denser air — a red flag for debris behavior.
+
+Finding Unstable Objects
+
+Objects with high or changing B★ values might be more likely to burn up or fall out of orbit soon — useful for predicting when debris will re-enter.
+
+Detecting New Debris
+
+If an object suddenly appears in tracking data with a weird or very high B★, it might be a piece of broken-off debris.
+
+Improving Future Tracking
+
+Using B★ helps computer models make better predictions about where debris will be — super important to avoid collisions with satellites or other debris.
+
+🧠 Think of B★ like...
+A "drag sensitivity" score for objects in space.
+Higher score = more affected by Earth’s atmosphere = orbit shrinking faster.
+
+TL;DR:
+B★ measures how much the air is slowing down space objects.
+
+Useful for predicting orbit changes and spotting debris behavior.
+
+Higher B★ = more drag = faster decay = possibly more dangerous or unstable.

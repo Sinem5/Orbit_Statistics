@@ -1,5 +1,5 @@
 # 🛰️ Orbital Decay Time Prediction
-This repository contains a complete workflow for exploring, analyzing, and predicting the decay time of satellites in orbit using data science techniques. The project is divided into three main notebooks: Exploratory Data Analysis (EDA), Descriptive Analysis, and Machine Learning-based Prediction.
+This repository contains a complete workflow for exploring, analyzing, and predicting the decay time of satellites in orbit using data science techniques. The project is divided into three main notebooks: Exploratory Data Analysis (EDA), Descriptive Analysis, and Machine Learning-based Prediction. This project uses a publicly available dataset sourced from [Kaggle](https://www.kaggle.com/datasets/kandhalkhandeka/satellites-and-debris-in-earths-orbit)
 
 ## 📁 Project Structure
 ### 1_EDA.ipynb - Exploratory Data Analysis
